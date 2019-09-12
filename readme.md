@@ -17,6 +17,9 @@ gt -fix
 # 打一个 feature tag
 gt -ft
 
+# 按语义化倒序列出所有 tags
+gt -l
+
 # help
 gt -h
 ```
